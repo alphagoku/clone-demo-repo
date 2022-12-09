@@ -1,0 +1,2 @@
+This is a file in clone-demo-repo in github. 
+Using clone method this repository will be reflected in local system.
